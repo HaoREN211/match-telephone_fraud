@@ -1,0 +1,10 @@
+
+.idea/*
+Data/train/*
+Data/test/*
+Data/rematch/*
+Data/filtration_train/*
+*.pyc
+call_opposite_no_m.xlsx
+sms_opposite_no_m.xlsx
+high_risk_opposite.xlsx
